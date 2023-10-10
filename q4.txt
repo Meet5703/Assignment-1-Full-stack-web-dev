@@ -1,0 +1,16 @@
+tag :-
+In html we are using tags for all elements and structure and for instruct web browser to what should it render all tags are used in
+angular brackets all tags have its own attributes and its own importance for structure. 
+
+example of tag
+<html> content </html>
+in this example html has two tag opening and closing tags
+
+
+Element:-
+In HTML we are using diffrent tags and attributes for make a structure Element is a full of structure which includes opening tag 
+content and closing tag that whole structure called element here i will give an example of element 
+
+example for element
+<body> content </body>
+In this example body tags and content are called as an element

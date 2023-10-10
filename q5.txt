@@ -1,0 +1,2 @@
+In HTML Doctype declaration is defines the different versions for html . doctype declaration is always used at the starting of the code
+. It instruct the web browser to render with updated version of html .
